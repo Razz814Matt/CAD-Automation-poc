@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace CadAutomation.Cor.Models;
+namespace CadAutomation.Cor.Models
 {
   public record AutomationRequestDto
   {
